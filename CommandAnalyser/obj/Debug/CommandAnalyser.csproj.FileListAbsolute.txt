@@ -1,0 +1,11 @@
+D:\Projects\C#-Projects\CommandAnalyser\CommandAnalyser\bin\Debug\CommandAnalyser.exe.config
+D:\Projects\C#-Projects\CommandAnalyser\CommandAnalyser\bin\Debug\CommandAnalyser.exe
+D:\Projects\C#-Projects\CommandAnalyser\CommandAnalyser\bin\Debug\CommandAnalyser.pdb
+D:\Projects\C#-Projects\CommandAnalyser\CommandAnalyser\obj\Debug\CommandAnalyser.csproj.AssemblyReference.cache
+D:\Projects\C#-Projects\CommandAnalyser\CommandAnalyser\obj\Debug\CommandAnalyser.Form1.resources
+D:\Projects\C#-Projects\CommandAnalyser\CommandAnalyser\obj\Debug\CommandAnalyser.Properties.Resources.resources
+D:\Projects\C#-Projects\CommandAnalyser\CommandAnalyser\obj\Debug\CommandAnalyser.csproj.GenerateResource.cache
+D:\Projects\C#-Projects\CommandAnalyser\CommandAnalyser\obj\Debug\CommandAnalyser.csproj.CoreCompileInputs.cache
+D:\Projects\C#-Projects\CommandAnalyser\CommandAnalyser\obj\Debug\CommandAnalyser.exe
+D:\Projects\C#-Projects\CommandAnalyser\CommandAnalyser\obj\Debug\CommandAnalyser.pdb
+D:\Projects\C#-Projects\CommandAnalyser\CommandAnalyser\obj\Debug\CommandAnalyser.CommandPanelComponent.resources
